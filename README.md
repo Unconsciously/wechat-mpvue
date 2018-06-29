@@ -1,8 +1,8 @@
-# stamp
+# 小程序 扫码
 
-> 小程序 扫码
-
-技术栈：mpvue、scss
+技术栈：
+- mpvue
+- scss
 
 ## Build Setup
 
